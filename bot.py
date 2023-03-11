@@ -7,7 +7,7 @@ import random
 import datetime
 
 # ify i znaki
-TOKEN = "MTA3ODExNzU4MTMwMDQzMjkzNw.G0eDA-.Va-2JYHdzhc1tJgDk-9qeYRLxID4xb79aT8xO8"
+TOKEN = ""
 DB_HOST = "sql8.freemysqlhosting.net"
 DB_USER = "sql8602922"
 DB_PASS = "N529MjlXlf"
